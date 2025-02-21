@@ -1,0 +1,19 @@
+{
+  "name": "sos2425-17-jgp-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javiigp/SOS2425-17-JGP-Sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javiigp/SOS2425-17-JGP-Sandbox/issues"
+  },
+  "homepage": "https://github.com/Javiigp/SOS2425-17-JGP-Sandbox#readme"
+}
